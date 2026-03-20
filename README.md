@@ -1,3 +1,5 @@
+O intuito da calculadora é fazer operações aritméticas sendo somas simples como adição,subtração,multiplicação e divisão. 
+
 !#/bin/bash: para definir um script
 read -p: solicita a entradada de dados do usuario
 bc -l: para calculos aritimeticos
